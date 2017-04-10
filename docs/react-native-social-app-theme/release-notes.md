@@ -4,10 +4,10 @@
 
 ### New Feature
 
+*   Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
 *  Upgraded to [React](https://facebook.github.io/react/) 15.4.2
 *  Upgraded to [React Native](https://github.com/facebook/react-native) 0.41.0
 *  Upgraded to [NativeBase](https://github.com/GeekyAnts/NativeBase) 0.5.11 2.x.x
-*  Upgraded to [React Native CodePush](https://github.com/Microsoft/react-native-code-push) 1.17.0-beta
 *  Upgraded to [React Native Swiper](https://github.com/leecade/react-native-swiper) 1.5.4
 *  Upgraded to [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) 4.0.0
 *  Upgraded **Navigator** from **Navigation Experimental** to [React Native Router Flux](https://github.com/aksonov/react-native-router-flux)

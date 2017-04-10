@@ -1,9 +1,9 @@
 #Summary
 
 * [Introduction](README.md)
+* [What's New in v6.0.0?](./docs/react-native-social-app-theme/Whats-new-in-v6.0.0.md)
 * [Technologies](./docs/common/technologies.md)
 * [Installation](./docs/common/installation.md)
-* [Exponent](./docs/react-native-social-app-theme/exponent.md)
 * [Guide](./docs/common/guide.md)
   * [Customize](./docs/common/guide/customize.md)
 * [Packages](./docs/react-native-social-app-theme/packages.md)
