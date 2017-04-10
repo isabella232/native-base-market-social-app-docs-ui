@@ -2,7 +2,7 @@
 
 ####New Features
 
-*   Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
+* Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
 * Upgraded to [**NativeBase**](http://nativebase.io/docs/v2.0.0/) 2.0.x
 * Upgraded to [**React**](https://facebook.github.io/react/) 15.4.2
 * Upgraded to [**React Native**](https://github.com/facebook/react-native) 0.41.0

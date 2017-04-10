@@ -4,7 +4,7 @@
 
 ### New Feature
 
-*   Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
+*  Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
 *  Upgraded to [React](https://facebook.github.io/react/) 15.4.2
 *  Upgraded to [React Native](https://github.com/facebook/react-native) 0.41.0
 *  Upgraded to [NativeBase](https://github.com/GeekyAnts/NativeBase) 0.5.11 2.x.x
